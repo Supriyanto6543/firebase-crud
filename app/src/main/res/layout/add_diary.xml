@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#01B9D1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:padding="20dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="TAMBAH DIARY"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:layout_marginTop="40dp"
+            android:gravity="center_horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+        <EditText
+            android:id="@+id/title"
+            android:hint="Judul"
+            android:drawablePadding="10dp"
+            android:layout_marginTop="30dp"
+            android:textColorHint="@color/white"
+            android:background="@drawable/custom_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:id="@+id/description"
+            android:hint="Description"
+            android:drawablePadding="10dp"
+            android:layout_marginTop="30dp"
+            android:textColorHint="@color/white"
+            android:background="@drawable/custom_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/add"
+            android:text="ADD DIARY"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/custom_button"
+            app:backgroundTint="@color/white"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+</LinearLayout>

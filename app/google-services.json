@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "219838784972",
+    "firebase_url": "https://semua-cerita.firebaseio.com",
+    "project_id": "semua-cerita",
+    "storage_bucket": "semua-cerita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219838784972:android:5d9cae60190609743fe969",
+        "android_client_info": {
+          "package_name": "com.bebe.androidfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219838784972-p784b37a0t7sprvav6ik95qglqffnutr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE3VypPcRGphtTwuSDZDsfg1XSUI2ig_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219838784972-p784b37a0t7sprvav6ik95qglqffnutr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219838784972:android:dbf83163c82b2b453fe969",
+        "android_client_info": {
+          "package_name": "com.diary.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219838784972-p784b37a0t7sprvav6ik95qglqffnutr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE3VypPcRGphtTwuSDZDsfg1XSUI2ig_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219838784972-p784b37a0t7sprvav6ik95qglqffnutr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
