@@ -1,6 +1,6 @@
 # <a href="https://www.udemy.com/course/kursus-lengkap-java-dan-android-studio-build-9-apps/">Full Tutorial Firebase CRUD on UDEMY</a>
 
-## <a href="https://www.udemy.com/course/kursus-lengkap-java-dan-android-studio-build-9-apps/">Video Tutorial Firebase CRUD on Youtube</a>
+## <a href="https://www.youtube.com/watch?v=w5-5Lcs0zt4&list=PLpw15nut3fGBTTMRx-Tqz1fXBCNHpzEmc">Video Tutorial Firebase CRUD on Youtube</a>
 
 Or you can click image below to access video tutorial on Youtube how to make Firebase CRUD step by step.
 
